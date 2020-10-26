@@ -33,5 +33,9 @@ let categories = [
  *      Answer: https://bit.ly/3gOwrga
  */
 function renderCategories() {
-    // Add code here
+    for(const category of categories) {
+        console.log(category);
+    }
+    let Robots = 'Robots'
+    let Nicknames = ''
 }
